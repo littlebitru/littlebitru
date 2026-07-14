@@ -48,17 +48,20 @@ Features:
 - Random vocabulary quizzes
 - SQLite database integration
 
-### [Django Tests](https://github.com/littlebitru/django-tests)
+### [Tvoy Orekh Django Store](https://github.com/littlebitru/tvoy-orekh)
 
-A learning project focused on Django application testing and backend development practices.
+A Django e-commerce application with user authentication, product catalogue, shopping cart and order management.
 
-## Currently Learning
+Features:
 
-- Django REST Framework
-- PostgreSQL
-- Automated testing
-- Docker
-- Backend architecture
+- User registration and authentication
+- Product catalogue with search
+- Product detail pages
+- Shopping cart
+- Order checkout
+- Customer purchase history
+- Custom user model
+- Django admin panel
 
 ## Contact
 
