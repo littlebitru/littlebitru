@@ -1,6 +1,6 @@
 # Hi, I'm Anton Troshkin 👋
 
-### Junior Python Backend Developer
+### Python Backend Developer
 
 I'm a Python backend developer based in Nha Trang, Vietnam.  
 I build web applications, Telegram bots and database-driven projects using Python.
